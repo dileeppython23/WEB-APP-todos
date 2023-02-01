@@ -1,0 +1,4 @@
+clean the bag
+throw the waste
+bring grocery
+implement new todo app
